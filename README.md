@@ -1,2 +1,2 @@
-# first-Project
+# School managment System
 Author: Shaista Rasool
